@@ -1,0 +1,15 @@
+{
+  "name": "backend_pertama",
+  "version": "1.0.0",
+  "description": "backend tahap satu",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Galang Rambu Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
